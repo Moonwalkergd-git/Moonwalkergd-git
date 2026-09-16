@@ -2,10 +2,6 @@
 ![Header](./moonwalkergd.png)
 
 
-<!-- SOCIAL BADGES -->
-<a href="https://bsky.app/profile/moonwalkerartist.bsky.social">
-  <img src=" (./bsky.png)" />
-</a>
 
 
 ---
