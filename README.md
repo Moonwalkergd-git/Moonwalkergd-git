@@ -3,9 +3,9 @@
 
 
 <!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://bsky.app/profile/moonwalkerartist.bsky.social"> alt="Bsky"></a>
-</p>
+<a href="https://bsky.app/profile/moonwalkerartist.bsky.social">
+  <img src="https://shields.io" />
+</a>
 
 
 ---
