@@ -4,7 +4,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://bsky.app/profile/moonwalkerartist.bsky.social"><img src="https://shields.io" alt="Bsky"></a>
+  <a href="https://bsky.app/profile/moonwalkerartist.bsky.social"><img (./moonwalkergd.png) alt="Bsky"></a>
 </p>
 
 
