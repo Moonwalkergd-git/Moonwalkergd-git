@@ -4,7 +4,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://bsky.app/profile/moonwalkerartist.bsky.social"><img (./Bluesky_Logo.png) alt="Bsky"></a>
+  <a href="https://bsky.app/profile/moonwalkerartist.bsky.social"> alt="Bsky"></a>
 </p>
 
 
