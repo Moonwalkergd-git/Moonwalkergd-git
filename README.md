@@ -1,15 +1,17 @@
 
 ![Header](./moonwalkergd.png)
 
-## Moonwalkergd
 
-Website: https://moonwalkerartist.framer.website
-
-Student who is interested in art and illustration.
-Avid Fencer 
-Gamer who enjoys Hollow Knight and Geometry Dash.
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://bsky.app/profile/moonwalkerartist.bsky.social"><img src="https://shields.io" alt="Bsky"></a>
+</p>
 
 
+---
+
+
+---
 
 <!--
 **Moonwalkergd-git/Moonwalkergd-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
