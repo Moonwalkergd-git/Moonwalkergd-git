@@ -1,8 +1,13 @@
-## Moonwalkergd
-
-Working on: Hollow Knight Ports and other personal website-related content.
 
 ![Header](./moonwalkergd.png)
+
+## Moonwalkergd
+
+Website: https://moonwalkerartist.framer.website
+
+Student who is interested in art and illustration.
+Avid Fencer 
+Gamer who enjoys Hollow Knight and Geometry Dash.
 
 
 
