@@ -2,7 +2,6 @@
 ![Header](./moonwalkergd.png)
 
 
-[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)
 
 ---
 Moonwalkergd
